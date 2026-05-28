@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruender",
+        "uuid": 17371152,
+        "checksum": "bj351l"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
